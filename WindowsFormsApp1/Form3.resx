@@ -117,4 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Choose what you would like, a matching pair(s) will be donated
+to the charity of your choice. Please make checks payable to ESU
+and write sock donation in the check memo (Socks available starting Nov 18th):
+
+socks</value>
+  </data>
 </root>
